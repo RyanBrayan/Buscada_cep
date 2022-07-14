@@ -44,7 +44,8 @@
 .container form .form input:focus{
     box-shadow: 0 0 0 0;
     outline: 0;
-    box-shadow: 2px 3px black;
+    box-shadow: 2px 3px rgba(0, 0, 0, 0.397);
+    
 }
 .container form .form label{
     font-weight: bold;
